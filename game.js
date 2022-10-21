@@ -10,6 +10,7 @@ let snake = [
   { x: 170, y: 200 },
   { x: 160, y: 200 },
 ];
+//s
 
 let score = 0;
 let changing_direction = false;
